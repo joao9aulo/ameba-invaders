@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SpaceInvaders_amebas">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/SpaceInvaders_amebas.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
